@@ -1,6 +1,6 @@
 # Cmake / OpenMP example project
 
-Just testing the cmake setting to have openmp enabled on linux and mac (using `brew install libomp`).
+Cmake setting to have openmp enabled on linux and mac (using `brew install libomp`).
 
 Just:
 
