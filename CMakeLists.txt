@@ -25,4 +25,4 @@ add_executable(testOpenMP testOpenMP)
 target_link_libraries(testOpenMP PRIVATE OpenMP::OpenMP_CXX)
 
 enable_testing()
-add_test(testOpenMP)
+add_test(MyTest testOpenMP)
