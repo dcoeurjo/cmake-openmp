@@ -19,7 +19,6 @@ if(APPLE)
     endif()
 endif()
 
-
 find_package(OpenMP REQUIRED)
 
 add_executable(testOpenMP testOpenMP)
